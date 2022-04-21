@@ -18,8 +18,8 @@ import java.util.concurrent.Future;
 public class Endpoints {
 
   private static String[] endpointList = {
-    "https://lazzoro.dk/ca2/api/joke/rand",
-    "https://lazzoro.dk/ca2/api/animal/rand"
+    "https://sem3.fredoku.com/ca2/api/joke/rand",
+    "https://sem3.fredoku.com/ca2/api/animal/rand"
   };
   
   //Public so URL's can be reused in the parallel part
